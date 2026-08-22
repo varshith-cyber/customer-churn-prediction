@@ -10,6 +10,3 @@ streamlit run app.py
 
 ## Tech
 Python, Pandas, Scikit-learn, Plotly, Streamlit
-
-## Resume skills
-EDA, feature engineering, classification, model evaluation, churn analysis, risk scoring, data visualization, business insights.
